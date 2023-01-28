@@ -6,7 +6,7 @@
  - **Carrera**: Ingenieria de sistemas
  - **Plan de estudios**: ISIS-14
  - **Correo Institucional**: `andres.onate@mail.escuelaing.edu.co`
- - **LinkedIn**: [Andres Camilo Oñate](https://co.linkedin.com/in/andr%C3%A9s-camilo-o%C3%B1ate-quimbayo-022332151/en?trk=people-guest_people_search-card)
+ - **LinkedIn**: [Andres Camilo Oñate Quimbayo](https://co.linkedin.com/in/andr%C3%A9s-camilo-o%C3%B1ate-quimbayo-022332151/en?trk=people-guest_people_search-card)
  
 ### Intereses
 
