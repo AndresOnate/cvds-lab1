@@ -9,7 +9,7 @@
  
 ### Intereses
 
-![Image](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/5-tendencias-van-cambiar-ciberseguridad-2020-1858639.jpg?tf=1200x)
+![Image](https://definicion.de/wp-content/uploads/2009/03/ingenieria-de-sistemas.jpg)
 
   1. Seguridad Informatica
   2. Desarollo de software
