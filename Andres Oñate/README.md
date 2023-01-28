@@ -9,6 +9,8 @@
  
 ### Intereses
 
+![Image](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/5-tendencias-van-cambiar-ciberseguridad-2020-1858639.jpg?tf=1200x)
+
   1. Seguridad Informatica
   2. Desarollo de software
   3. Algoritmos y estructuras de datos
