@@ -79,7 +79,8 @@ def main():
     print("Segundo Factor:",int(q))
     
 main()
-
+```
+---
 
 ## PARTE III LABORATORIO. - GIT BRANCHING
 
